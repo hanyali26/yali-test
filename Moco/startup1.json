@@ -2,7 +2,7 @@
   {
     "description": "this is first",
     "request": {
-      "url": "/demo"
+      "uri": "/demo"
     },
 
     "response": {
