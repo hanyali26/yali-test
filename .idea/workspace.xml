@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c5ac1a1-441b-4216-bdb1-24a1aab37bd0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/Paramter/ParamterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Moco/startup1.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/suite.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/PartsOneTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/OneClassTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/TestSuite/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/TestSuite/PayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/suite.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/TestSuite/SuiteConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/IgnoreTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/Groups/GroupOnMethod.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/Groups/GroupsOnClass1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/Groups/GroupsOnClass2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/Groups/GroupsOnClass3.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/groupsonclass.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/Excepted.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/DependTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/Paramter/ParamterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/course/parts/Paramter/DataProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/paramter.xml" />
+        <option value="$PROJECT_DIR$/Moco/startup1.json" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/TestTools/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\TestTools\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="yali-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="yali-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="yali-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yali-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yali-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yali-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yali-test" type="462c0819:PsiDirectoryNode" />
+              <item name="Moco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yali-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yali-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\yali-test\Moco" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.ParamterTest">
+    <configuration name="D:/Projects/yali-test/src/main/resources/paramter.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yali-test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/paramter.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DependTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yali-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.parts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.parts" />
+      <option name="MAIN_CLASS_NAME" value="com.course.parts.DependTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Excepted" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yali-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.parts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.parts" />
+      <option name="MAIN_CLASS_NAME" value="com.course.parts.Excepted" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParamterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yali-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.parts.Paramter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.parts.Paramter" />
+      <option name="MAIN_CLASS_NAME" value="com.course.parts.Paramter.ParamterTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParamterTest.paramterTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yali-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.parts.Paramter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.parts.Paramter" />
+      <option name="MAIN_CLASS_NAME" value="com.course.parts.Paramter.ParamterTest" />
+      <option name="METHOD_NAME" value="paramterTest1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ParamterTest" />
+        <item itemvalue="TestNG.D:/Projects/yali-test/src/main/resources/paramter.xml" />
+        <item itemvalue="TestNG.ParamterTest.paramterTest1" />
+        <item itemvalue="TestNG.DependTest.test2" />
+        <item itemvalue="TestNG.Excepted" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c5ac1a1-441b-4216-bdb1-24a1aab37bd0" name="Default Changelist" comment="" />
+      <created>1573828625813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573828625813</updated>
+      <workItem from="1573828629999" duration="609000" />
+      <workItem from="1573829264053" duration="374000" />
+      <workItem from="1573829710240" duration="262000" />
+      <workItem from="1573830000595" duration="341000" />
+      <workItem from="1573831011865" duration="8656000" />
+      <workItem from="1574081146808" duration="9670000" />
+      <workItem from="1574170532727" duration="744000" />
+      <workItem from="1574171306487" duration="457000" />
+      <workItem from="1574172569500" duration="738000" />
+      <workItem from="1574319437153" duration="1374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="D__Projects_yali-test_src_main_resources_groupsonclass_xml - 2019.11.18 at 20h 52m 15s.xml">
+      <configuration name="D:/Projects/yali-test/src/main/resources/groupsonclass.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Projects_yali-test_src_main_resources_groupsonclass_xml - 2019.11.18 at 20h 55m 45s.xml">
+      <configuration name="D:/Projects/yali-test/src/main/resources/groupsonclass.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Excepted - 2019.11.18 at 21h 08m 28s.xml">
+      <configuration name="Excepted" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Excepted - 2019.11.18 at 21h 11m 16s.xml">
+      <configuration name="Excepted" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DependTest_test2 - 2019.11.18 at 21h 27m 29s.xml">
+      <configuration name="DependTest.test2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DependTest_test2 - 2019.11.18 at 21h 27m 31s.xml">
+      <configuration name="DependTest.test2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DependTest_test2 - 2019.11.18 at 21h 28m 27s.xml">
+      <configuration name="DependTest.test2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Projects_yali-test_src_main_resources_paramter_xml - 2019.11.18 at 21h 59m 02s.xml">
+      <configuration name="D:/Projects/yali-test/src/main/resources/paramter.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Projects_yali-test_src_main_resources_paramter_xml - 2019.11.18 at 21h 59m 54s.xml">
+      <configuration name="D:/Projects/yali-test/src/main/resources/paramter.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Projects_yali-test_src_main_resources_paramter_xml - 2019.11.18 at 22h 02m 37s.xml">
+      <configuration name="D:/Projects/yali-test/src/main/resources/paramter.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23225000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49226007" visible="true" weight="0.21481876" />
+      <window_info id="Structure" order="1" sideWeight="0.50773996" side_tool="true" visible="true" weight="0.21481876" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46209762" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32917964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.2707889" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://MAVEN/com.course.parts:yali-test:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.course.parts:yali-test:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.course.parts:yali-test:1.0-SNAPSHOT</node>
+            <node x="90.0" y="0.0">junit:junit:jar:4.12</node>
+            <node x="160.0" y="0.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.course.parts:yali-test:1.0-SNAPSHOT" target="junit:junit:jar:4.12">
+              <point x="35.0" y="-0.0" />
+              <point x="-25.0" y="-0.0" />
+            </edge>
+            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="25.0" y="-0.0" />
+              <point x="-53.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="133.0" y="163.0" />
+          <SelectedNodes>
+            <node>com.course.parts:yali-test:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testSuite/LoginTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/OneClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/TestSuite/PayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/TestSuite/SuiteConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/IgnoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/Groups/GroupOnMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/TestSuite/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/DependTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/Excepted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/Groups/GroupsOnClass3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/Groups/GroupsOnClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/Groups/GroupsOnClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/groupsonclass.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/Paramter/DataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/paramter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/suite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/course/parts/Paramter/ParamterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Moco/startup1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>yali-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
